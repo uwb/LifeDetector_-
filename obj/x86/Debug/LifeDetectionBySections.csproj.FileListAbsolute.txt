@@ -1,0 +1,17 @@
+D:\E\_UWB\生命探测\程序\2018-1-25\LifeDetector\bin\Debug\RADARMRM.exe
+D:\E\_UWB\生命探测\程序\2018-1-25\LifeDetector\bin\Debug\RADARMRM.pdb
+D:\E\_UWB\生命探测\程序\2018-1-25\LifeDetector\bin\Debug\Telerik.WinControls.dll
+D:\E\_UWB\生命探测\程序\2018-1-25\LifeDetector\bin\Debug\Telerik.WinControls.UI.dll
+D:\E\_UWB\生命探测\程序\2018-1-25\LifeDetector\bin\Debug\TelerikCommon.dll
+D:\E\_UWB\生命探测\程序\2018-1-25\LifeDetector\bin\Debug\Telerik.WinControls.xml
+D:\E\_UWB\生命探测\程序\2018-1-25\LifeDetector\bin\Debug\Telerik.WinControls.UI.xml
+D:\E\_UWB\生命探测\程序\2018-1-25\LifeDetector\obj\x86\Debug\LifeDetectionBySections.csprojResolveAssemblyReference.cache
+D:\E\_UWB\生命探测\程序\2018-1-25\LifeDetector\obj\x86\Debug\RADARMRM.Form1.resources
+D:\E\_UWB\生命探测\程序\2018-1-25\LifeDetector\obj\x86\Debug\RADARMRM.FrmConfig.resources
+D:\E\_UWB\生命探测\程序\2018-1-25\LifeDetector\obj\x86\Debug\RADARMRM.FrmLogin.resources
+D:\E\_UWB\生命探测\程序\2018-1-25\LifeDetector\obj\x86\Debug\RADARMRM.FrmUserManage.resources
+D:\E\_UWB\生命探测\程序\2018-1-25\LifeDetector\obj\x86\Debug\RADARMRM.Properties.Resources.resources
+D:\E\_UWB\生命探测\程序\2018-1-25\LifeDetector\obj\x86\Debug\LifeDetectionBySections.csproj.GenerateResource.Cache
+D:\E\_UWB\生命探测\程序\2018-1-25\LifeDetector\obj\x86\Debug\RADARMRM.exe.licenses
+D:\E\_UWB\生命探测\程序\2018-1-25\LifeDetector\obj\x86\Debug\RADARMRM.exe
+D:\E\_UWB\生命探测\程序\2018-1-25\LifeDetector\obj\x86\Debug\RADARMRM.pdb

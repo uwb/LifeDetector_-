@@ -1,0 +1,9 @@
+RadarIP=192.168.1.130
+SpeedX=800	//速度控制模式下的左右方向的标准运行速度
+SpeedY=40	//速度控制模式下的前后方向的标准运行速度
+SpeedR=50
+MaxSpeed=1000	//位置控制模式下的标准运行速度
+MaxAccel=10	//位置控制模式下的标准运行加速度
+MaxCurrent=10000	//电机允许最大峰值电流值mA
+Current=7000		//电机正常运行电流值mA
+CurrentThreshold=8000    //降速电流阈值
